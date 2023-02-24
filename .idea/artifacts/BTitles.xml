@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BTitles">
+    <output-path>$PROJECT_DIR$/out/artifacts/BTitles</output-path>
+    <root id="archive" name="BTitles.jar">
+      <element id="module-output" name="BTitles" />
+    </root>
+  </artifact>
+</component>

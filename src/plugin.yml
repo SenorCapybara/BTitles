@@ -1,0 +1,9 @@
+name: BTitles
+version: 0.0.1
+api-version: 1.16
+main: com.bahzinga.btitles.Main
+author: Bahzinga
+
+commands:
+  btitles:
+    permission: btitles.admin
